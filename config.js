@@ -2,7 +2,7 @@ window.settings = {
     // API
     api: "https://cdn.bocchi.ooo",
     // 站点名称
-    title: 'Demo App',
+    title: 'Ito Network',
     // 站点描述
     description: '连接全世界',
     // 站点介绍 
