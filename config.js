@@ -1,6 +1,6 @@
 window.settings = {
     // API
-    api: "https://backend233.palcloud.top",
+    api: "https://cdn.bocchi.ooo",
     // 站点名称
     title: 'Demo App',
     // 站点描述
